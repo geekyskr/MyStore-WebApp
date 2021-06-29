@@ -13,4 +13,4 @@ Two payment gateway.
 
 Some used library :
 
-Crypto, uuid, mongoose, 
+Crypto, uuid, mongoose, jwt, 
