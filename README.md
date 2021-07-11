@@ -1,4 +1,4 @@
-IMPORTANT : This is an ongoing project
+IMPORTANT : This is an ongoing project (70% complete || only frontend left)
 
 # MyStore-WebApp
 This is an E-Commerce website using MERN stack.
@@ -13,4 +13,9 @@ Two payment gateway.
 
 Some used library :
 
-Crypto, uuid, mongoose, jwt, 
+Crypto, uuid, mongoose, jwt, formidable, lodash
+
+
+Tech used :
+
+ReactJS, NodeJS, ExpressJS, MongoDB
